@@ -1,0 +1,2 @@
+C:\Users\sds\AndroidStudioProjects\WifiDirectDemo\app\build\intermediates\classes\debug
+C:\Users\sds\AndroidStudioProjects\WifiDirectDemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-7089f6c3aa1c0bfcbac167c1bed7ca001119cd42.jar
