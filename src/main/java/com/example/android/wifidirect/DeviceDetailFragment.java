@@ -327,7 +327,7 @@ public class DeviceDetailFragment extends Fragment implements ConnectionInfoList
             while ((len = inputStream.read(buf)) != -1) {
                 out.write(buf, 0, len);
             }
-
+            //hello world
             out.close();
             inputStream.close();
             long endTime=System.currentTimeMillis()-startTime;
